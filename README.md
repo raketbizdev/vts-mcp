@@ -12,6 +12,14 @@ This repo is the **user manual**: install guides, prompt recipes, the tool refer
 
 ---
 
+## See it in action
+
+[![Watch the VTS Transcription demo](https://img.youtube.com/vi/gti8B8Q3XpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=gti8B8Q3XpA)
+
+Two-minute walkthrough of the install + first prompt. Click the thumbnail to play on YouTube.
+
+---
+
 ## Who this is for
 
 - **Content creators** — turn a podcast or YouTube interview into a script, show notes, or short-form clips without leaving the AI tab you already work in.

@@ -2,6 +2,10 @@
 
 Same three steps on the web and Desktop apps. Both use the **custom connector** flow with OAuth, so there's no API key to copy around. Total time: about 60 seconds.
 
+[![Watch the VTS Transcription demo](https://img.youtube.com/vi/gti8B8Q3XpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=gti8B8Q3XpA)
+
+If you'd rather see it before doing it, the demo above walks through the full install + first prompt end to end.
+
 ---
 
 ## Before you start
