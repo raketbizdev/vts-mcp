@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2026 Ask Giya / Video Transcription Service
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this documentation and associated files (the "Docs"), to deal in the Docs
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Docs, and to permit persons to whom the Docs are furnished to do so, subject
+to the following condition:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Docs.
+
+THE DOCS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE DOCS OR THE USE OR OTHER DEALINGS IN
+THE DOCS.
+
+---
+
+Note: this MIT license covers ONLY the documentation in this repository.
+The VTS Transcription service (https://vts.askgiya.com) is a separate
+commercial product with its own terms of service and privacy policy.
