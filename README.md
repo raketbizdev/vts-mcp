@@ -40,7 +40,7 @@ This is documentation for **paying VTS customers** and **the 300-minutes-free ti
 | **ChatGPT (web)** | [→ Install on ChatGPT](docs/install-chatgpt.md#option-1-chatgptcom-browser) | ~60s |
 | **ChatGPT Desktop** (macOS/Windows) | [→ Install on ChatGPT Desktop](docs/install-chatgpt.md#option-2-chatgpt-desktop) | ~60s |
 
-All four use the same connector URL — `https://vts.askgiya.com/mcp` — and the same OAuth sign-in. No API key, no config file.
+All four use the same connector URL — `https://vtsmcp.askgiya.com` — and the same OAuth sign-in. No API key, no config file.
 
 ---
 
@@ -126,7 +126,7 @@ Full table with options like speaker diarization, denoise pre-pass, and SLA tier
 
 ## Status & contributions
 
-- **Status:** v1, in active use. The connector URL `https://vts.askgiya.com/mcp` is stable.
+- **Status:** v1, in active use. The connector URL `https://vtsmcp.askgiya.com` is stable.
 - **Reporting issues** — open an issue on this repo with the steps to reproduce. For account-specific or billing questions, email [support@askgiya.com](mailto:support@askgiya.com) instead.
 - **Pull requests** — typo fixes, clarifications, additional prompt recipes, and translations are welcome. Behavior changes to the connector itself happen on the VTS side, not in this repo.
 
@@ -136,4 +136,4 @@ Full table with options like speaker diarization, denoise pre-pass, and SLA tier
 
 Documentation in this repo is [MIT-licensed](LICENSE) — fork it, excerpt it, translate it, mirror it.
 
-VTS the service is a separate commercial product. The connector at `https://vts.askgiya.com/mcp` is operated by Ask Giya / Video Transcription Service. Use is governed by the [VTS terms](https://vts.askgiya.com/terms) and [privacy policy](https://vts.askgiya.com/privacy).
+VTS the service is a separate commercial product. The connector at `https://vtsmcp.askgiya.com` is operated by Ask Giya / Video Transcription Service. Use is governed by the [VTS terms](https://vts.askgiya.com/terms) and [privacy policy](https://vts.askgiya.com/privacy).

@@ -2,7 +2,7 @@
 
 When the VTS connector is installed, ten tools become available to Claude / ChatGPT. You don't have to know the tool names — the AI picks the right one based on what you ask in plain language. This page is for **power users** who want to know exactly what's available so they can write more precise prompts.
 
-The connector runs on `https://vts.askgiya.com/mcp`. Tools are exposed via the Model Context Protocol (MCP) standard, so the same surface works on Claude.ai, Claude Desktop, ChatGPT, ChatGPT Desktop, and any other MCP client.
+The connector runs on `https://vtsmcp.askgiya.com`. Tools are exposed via the Model Context Protocol (MCP) standard, so the same surface works on Claude.ai, Claude Desktop, ChatGPT, ChatGPT Desktop, and any other MCP client.
 
 ---
 

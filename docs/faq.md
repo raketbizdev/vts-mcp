@@ -145,7 +145,7 @@ The connector is built for the Claude.ai web app and Claude Desktop. Claude Code
 
 ### Does it work in Cursor / Windsurf / other MCP-capable IDEs?
 
-It uses the standard MCP HTTP protocol, so yes — any client that supports remote MCP connectors over HTTP can add it. Point them at `https://vts.askgiya.com/mcp` and approve the OAuth flow.
+It uses the standard MCP HTTP protocol, so yes — any client that supports remote MCP connectors over HTTP can add it. Point them at `https://vtsmcp.askgiya.com` and approve the OAuth flow.
 
 ### Does it work in voice mode?
 
@@ -165,7 +165,7 @@ We don't proxy arbitrary URLs to avoid being weaponized as an open relay (SSRF, 
 
 ### Can I run my own MCP server pointing at the VTS API?
 
-The VTS API is accessible via API keys (see your dashboard). The hosted connector at `https://vts.askgiya.com/mcp` is the supported path for AI clients. Self-hosted MCP servers are a "you're on your own" path — happy to point you at the API docs.
+The VTS API is accessible via API keys (see your dashboard). The hosted connector at `https://vtsmcp.askgiya.com` is the supported path for AI clients. Self-hosted MCP servers are a "you're on your own" path — happy to point you at the API docs.
 
 ### How do I get help?
 

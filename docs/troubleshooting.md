@@ -15,10 +15,10 @@ The OAuth popup was blocked by your browser. Open your site permissions, allow p
 Your connector is pointing at the wrong URL. Double-check the server URL is exactly:
 
 ```
-https://vts.askgiya.com/mcp
+https://vtsmcp.askgiya.com
 ```
 
-No trailing slash. No `/api` prefix. Some people accidentally paste the homepage (`https://vts.askgiya.com`) — that returns the website, not the MCP server.
+No trailing slash, no `/mcp` suffix needed. Some people accidentally paste the marketing site (`https://vts.askgiya.com`) — that returns the website, not the MCP server.
 
 ### OAuth popup closes immediately
 

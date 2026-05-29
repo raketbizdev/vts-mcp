@@ -30,7 +30,7 @@ You'll see a list of connectors (Google Drive, Gmail, etc.) and an **Add custom 
 
 Click **Add custom connector** and enter:
 
-- **Server URL** — `https://vts.askgiya.com/mcp`
+- **Server URL** — `https://vtsmcp.askgiya.com`
 - **Name** — `VTS Transcription`
 
 Click **Add**. A new connector card appears in your list with a **Sign in** link.
@@ -68,7 +68,7 @@ You'll see the list of available connectors with an **Add custom connector** but
 
 Click **Add custom connector** and enter:
 
-- **Server URL** — `https://vts.askgiya.com/mcp`
+- **Server URL** — `https://vtsmcp.askgiya.com`
 - **Name** — `VTS Transcription`
 
 Click **Add**. The connector card appears with a **Sign in** link.
